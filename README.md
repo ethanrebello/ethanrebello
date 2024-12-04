@@ -1,6 +1,6 @@
 # Ethan Rebello
 
-Hello! I am a junior at the Texas Academy of Mathematics and Science, and an Undergraduate Researcher at the University of North Texas. 
+Hello! I am a freshman at UT Austin majoring in ECE and Business (Go ECB!). 
 I specialize in Machine Learning, with a focus on Bioinformatics and GNNs.
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=eamorebel&show_icons=true&theme=midnight-purple" alt="eamorebel" width="450" mb="12px" />
