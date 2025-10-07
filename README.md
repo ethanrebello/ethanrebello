@@ -1,6 +1,6 @@
 # Ethan Rebello
 
-Hey, y'all. I'm a freshman at UT Austin, double majoring in Electrical and Computer Engineering and Business (Go ECB!). 
+Hey, y'all. I'm a sophomore at UT Austin, double-majoring in Electrical and Computer Engineering and Business (Go ECB!). 
 I specialize in GCNNs and bioinformatics work, and I love any kind of unconventional data project.
 
 ## Projects of Interest
