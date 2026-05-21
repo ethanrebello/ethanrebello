@@ -1,13 +1,18 @@
 # Ethan Rebello
 
-Hey, y'all. I'm a sophomore at UT Austin, double-majoring in Electrical and Computer Engineering and Business (Go ECB!). 
-I specialize in GCNNs and bioinformatics work, and I love any kind of unconventional data project.
+Hey, y'all. I'm a sophomore at UT Austin, majoring in Electrical and Computer Engineering. 
+I work across FPGA design, hardware design verification, CUDA/kernel optimization, and ML.
 
 ## Projects of Interest
-
 1. **Creating Non-Gerrymandered Voting Maps**: [link](https://ieeexplore.ieee.org/abstract/document/10534993) | Drawing more fair congressional districts.
-2. **Lagrangian Optimization**: [link](https://ieeexplore.ieee.org/abstract/document/10534993) | Optimizing traffic on unbalanced graph networks.
-3. **GradeGrub**: [In-progress] Chrome extension designed to help you optimize your grades.
+2. **riscv-soc-dv**: [link](https://github.com/ethanrebello/riscv-soc-dv) | Full-chip design verification environment for an AXI-Lite RISC-V SoC.
+3. **FlashAttention-Ada**: [link](https://github.com/ethanrebello/FlashAttention-Ada) | Hand-optimized FP8/FP16 fused attention kernel for sm_89 Ada Lovelace.
+4. **VkFFT**: [link](https://github.com/ethanrebello/VkFFT) | CUDA kernels for hybrid Radix-2 FFT with real-time spectrogram visualization.
+5. **Wavefront**: [link](https://github.com/ethanrebello/wavefront) | GPU dataflow visualizer.
+
+### Other Projects
+- **Lagrangian Optimization**: [link](https://ieeexplore.ieee.org/abstract/document/10534993) | Optimizing traffic on unbalanced graph networks.
+- **GradeGrub**: [In-progress] Chrome extension designed to help you optimize your grades.
 
 ## Contact
 
