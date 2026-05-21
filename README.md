@@ -4,7 +4,7 @@ Hey, y'all. I'm majoring in Electrical and Computer Engineering at UT Austin.
 I work across FPGA design, hardware design verification, CUDA/kernel optimization, and ML.
 
 ## Projects of Interest
-1. **Creating Non-Gerrymandered Voting Maps**: [link](https://ieeexplore.ieee.org/abstract/document/10534993) | Drawing more fair congressional districts.
+1. **Creating Non-Gerrymandered Voting Maps**: [link](https://ieeexplore.ieee.org/abstract/document/10534963) | Drawing more fair congressional districts.
 2. **riscv-soc-dv**: [link](https://github.com/ethanrebello/riscv-soc-dv) | Full-chip design verification environment for an AXI-Lite RISC-V SoC.
 3. **FlashAttention-Ada**: [link](https://github.com/ethanrebello/FlashAttention-Ada) | Hand-optimized FP8/FP16 fused attention kernel for sm_89 Ada Lovelace.
 4. **VkFFT**: [link](https://github.com/ethanrebello/VkFFT) | CUDA kernels for hybrid Radix-2 FFT with real-time spectrogram visualization.
