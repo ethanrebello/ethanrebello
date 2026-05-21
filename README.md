@@ -1,6 +1,6 @@
 # Ethan Rebello
 
-Hey, y'all. I'm a sophomore at UT Austin, majoring in Electrical and Computer Engineering. 
+Hey, y'all. I'm majoring in Electrical and Computer Engineering at UT Austin. 
 I work across FPGA design, hardware design verification, CUDA/kernel optimization, and ML.
 
 ## Projects of Interest
